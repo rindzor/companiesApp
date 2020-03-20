@@ -5,7 +5,7 @@ The app is a list of companies that are loaded from JSON
 
 # View a Demo
 
-![](ezgif.com-video-to-gif.gif)
+![](https://media.giphy.com/media/UQUDUeC5c1Dc7iq6JC/giphy.gif)
 
 
 ## Built With
